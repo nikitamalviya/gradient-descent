@@ -4,7 +4,7 @@ This is an implementation problem of Gradient Descent in which you can also see 
 
 
 
-# ------------------------------ Initializaion -------------------------------------
+## Initializaion
 
 # current point
 x0 = 3
