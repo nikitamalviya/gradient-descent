@@ -27,4 +27,4 @@ This is an implementation problem of Gradient Descent in which you can see the d
 [Gradient Descent Blog - Medium](https://medium.com/praemineo/gradient-descent-158ec196d02f?source=friends_link&sk=26857af7f597418674203aa665fbef3b)
 
 ![Descendant](gif/gradientDescent.gif)
-![GD Curve](images/animated.gif)
+![GD Curve](images/animation.gif)
